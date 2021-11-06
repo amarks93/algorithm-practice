@@ -1,6 +1,6 @@
 # Algorithm Practice
 
-**A place to store all the algos.**
+A place to store all the algos.
 
 ## File Structure
 
@@ -10,7 +10,7 @@
 
 ## Progress Meter
 
-|   Week | Files Completed                   |
-| -----: | :-------------------------------- |
-| Week 1 | 001, 002, 003, 101, 102, 103, 104 |
-| Week 2 |                                   |
+|   Week | Files Completed                             | Topics                                        |
+| -----: | :------------------------------------------ | :-------------------------------------------- |
+| Week 1 | 001, 002, 003, 004, 101, 102, 103, 104, 105 | frequency counter, pointers, recursion, trees |
+| Week 2 |                                             |                                               |
