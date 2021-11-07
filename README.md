@@ -13,4 +13,4 @@ A place to store all the algos.
 |   Week | Files Completed                             | Topics                                        |
 | -----: | :------------------------------------------ | :-------------------------------------------- |
 | Week 1 | 001, 002, 003, 004, 101, 102, 103, 104, 105 | frequency counter, pointers, recursion, trees |
-| Week 2 |                                             |                                               |
+| Week 2 | 106                                         | pointers                                      |
