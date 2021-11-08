@@ -13,4 +13,10 @@ A place to store all the algos.
 |   Week | Files Completed                             | Topics                                        |
 | -----: | :------------------------------------------ | :-------------------------------------------- |
 | Week 1 | 001, 002, 003, 004, 101, 102, 103, 104, 105 | frequency counter, pointers, recursion, trees |
-| Week 2 | 106                                         | pointers                                      |
+| Week 2 | 106, 107, 005, 006, 007                     | pointers, sliding window                      |
+
+## Notes to Self
+
+1. 002 - try an iterative approach
+2. 006 - totally looked at the solution for help on this one, try again later!!
+3. 108 - incomplete
