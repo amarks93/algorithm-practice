@@ -1,6 +1,6 @@
 // PROMPT
 // Write a function called findLongestSubstring, which accepts a string and returns the length
-// of the longest substrng with all distinct characters.
+// of the longest substring with all distinct characters.
 
 // RESTATE
 
@@ -13,3 +13,5 @@
 // TEST
 
 // OPTIMIZE
+// time -
+// space -

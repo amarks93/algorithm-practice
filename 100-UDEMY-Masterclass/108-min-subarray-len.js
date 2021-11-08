@@ -17,26 +17,35 @@
 // APPROACH
 // Set up a variable for minLength (0)
 // Set up a variable for curSum
-// Set up for loop, from 0 to arr length
-// Add until you reach the int or are greater than
-// Store this length (the index)
-// Have to do a separated sliding window situation
-// Subtract from the front until it's no longer equal to, then add to the end...
+// Set up two pointers to keep track of the front and end of the subArray
+// Set up a while loop that exits if the start point goes past the end of the nums array
+// If the curSum is less than the sum we want, AND the we havent gone past the end point (end < nums
+//    array length), then add to the sum, and also move the end point forward (kind of like a for loop)
+// But if the curSum is greater than the target, then we need to find the length of the subarray,
+//    so end - start
+// Then we need to move our sliding window situation over, so subtract from the begin of the subarray
+// and then we can add to end... because we are now most likely in the first "if" statement
+// If the curSum is less than the target AND we have reached the end of the original array, we break
 
 // CODE
-function minSubArrayLen(arr, int) {
-  let minLength = 0;
-  let curSum = 0;
-  for (let i = 0; i < arr.length; i++) {
-    curSum += arr[i];
-    if (curSum >= int) {
-      minLength = i + 1;
-      curSum = 0;
-      continue;
+function minSubArrayLen(arr, target) {
+  let minLength = Infinity;
+  let currentSum = 0;
+  let beginning = 0;
+  let end = 0;
+  while (beginning < arr.length) {
+    if (currentSum < target && end < arr.length) {
+      currentSum += arr[end];
+      end++;
+    } else if (currentSum >= target) {
+      if (end - beginning < minLength) minLength = end - beginning;
+      currentSum = currentSum - arr[beginning];
+      beginning++;
+    } else {
+      break;
     }
   }
-
-  return minLength;
+  return minLength === Infinity ? 0 : minLength;
 }
 
 // TEST
@@ -46,3 +55,8 @@ console.log("1", minSubArrayLen([3, 1, 7, 11, 2, 9, 8, 21, 62, 33, 19], 52));
 console.log("0", minSubArrayLen([1, 4, 16, 22, 5, 7, 8, 9, 10], 95));
 
 // OPTIMIZE
+// time - O (n)
+//   while loop -> n
+// space - O (1)
+//   numbers -> 1
+// no need to optimize
