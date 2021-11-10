@@ -3,6 +3,8 @@
 // that returns an array of all triplets in the input array that sum to the target sum.
 
 // RESTATE
+// Find out if any three numbers in an array add to up the target
+// Returns all possible combinations
 
 // EXAMPLES
 
