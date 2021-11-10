@@ -10,10 +10,10 @@ A place to store all the algos.
 
 ## Progress Meter
 
-|   Week | Files Completed                             | Topics                                        |
-| -----: | :------------------------------------------ | :-------------------------------------------- |
-| Week 1 | 001, 002, 003, 004, 101, 102, 103, 104, 105 | frequency counter, pointers, recursion, trees |
-| Week 2 | 106, 107, 005, 006, 007, 108, 203, 109, 110 | pointers, sliding window, recursion           |
+|   Week | Files Completed                                       | Topics                                        |
+| -----: | :---------------------------------------------------- | :-------------------------------------------- |
+| Week 1 | 001, 002, 003, 004, 101, 102, 103, 104, 105           | frequency counter, pointers, recursion, trees |
+| Week 2 | 106, 107, 005, 006, 007, 108, 203, 109, 110, 111, 204 | pointers, sliding window, recursion           |
 
 ## Notes to Self
 
