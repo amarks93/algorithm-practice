@@ -30,5 +30,7 @@ console.log("4", power(2, 2));
 console.log("16", power(2, 4));
 
 // OPTIMIZE
-// time -
-// space -
+// time - O (n)
+//  the exponent gets smaller, so n is the number of times the function gets called
+// space - O (n)
+//  where n is the size of the call stack
