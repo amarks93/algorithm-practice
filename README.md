@@ -10,17 +10,13 @@ A place to store all the algos.
 
 ## Progress Meter
 
-|   Week | Files Completed                                                      | Topics                                        |
-| -----: | :------------------------------------------------------------------- | :-------------------------------------------- |
-| Week 1 | 001, 002, 003, 004, 101, 102, 103, 104, 105                          | frequency counter, pointers, recursion, trees |
-| Week 2 | 106, 107, 005, 006, 007, 108, 203, 109, 110, 111, 204, 112, 113, 114 | pointers, sliding window, recursion           |
+|   Week | Files Completed                                                                               | Topics                                        |
+| -----: | :-------------------------------------------------------------------------------------------- | :-------------------------------------------- |
+| Week 1 | 001, 002, 003, 004, 101, 102, 103, 104, 105                                                   | frequency counter, pointers, recursion, trees |
+| Week 2 | 106, 107, 005, 006, 007, 108, 203, 109, 110, 111, 204, 112, 113, 114, 115, 116, 117, 118, 201 | pointers, sliding window, recursion           |
 
 ## Notes to Self
 
 1. 002 - try an iterative approach
 2. 203 - optimized and "complete", passed by luck... need to review
 3. 109 - would be good to do again when reviewing sliding windows
-
-## Schedule
-
-- Friday 11/12 - do no new things if items present in "Notes to Self"
