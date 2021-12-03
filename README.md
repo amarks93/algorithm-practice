@@ -16,7 +16,7 @@ A place to store all the algos.
 | Week 2 | 106, 107, 005, 006, 007, 108, 203, 109, 110, 111, 204, 112, 113, 114, 115, 116, 117, 118, 201 | pointers, sliding window, recursion           |
 | Week 3 | 008, 119, 120, 121, 122, 123, 124, 125, 202, 126, 206                                         | recursion, search, BST                        |
 | Week 4 | N/A                                                                                           | N/A                                           |
-| Week 5 | 127, 128, 129                                                                                 | sorting,                                      |
+| Week 5 | 127, 128, 129, 212, 211                                                                       | sorting,                                      |
 
 ## Notes to Self
 
