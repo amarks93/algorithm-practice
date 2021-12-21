@@ -19,7 +19,7 @@ A place to store all the algos.
 | Week 5 | 127, 128, 129, 212, 211, 210                                                                  | sorting                                       |
 | Week 6 | 209                                                                                           | trees                                         |
 | Week 7 | N/A                                                                                           | N/A                                           |
-| Week 8 | 130, 301, 302, 303                                                                            | intermediate sorting, binary search           |
+| Week 8 | 130, 301, 302, 303, 304, 305                                                                  | intermediate sorting, binary search, pointers |
 
 ## Notes to Self
 
