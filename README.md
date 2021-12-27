@@ -20,6 +20,7 @@ A place to store all the algos.
 | Week 6 | 209                                                                                           | trees                                                                       |
 | Week 7 | N/A                                                                                           | N/A                                                                         |
 | Week 8 | 130, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312                               | intermediate sorting, binary search, pointers, linked lists, sliding window |
+| Week 9 | 215                                                                                           | recursion                                                                   |
 
 ## Notes to Self
 
