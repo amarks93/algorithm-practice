@@ -22,7 +22,7 @@ A place to store all the algos.
 |  Week 8 | 130, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312                               | intermediate sorting, binary search, pointers, linked lists, sliding window |
 |  Week 9 | 215                                                                                           | recursion                                                                   |
 | Week 10 | N/A                                                                                           | N/A                                                                         |
-| Week 11 | 012, 207, 217, 222, 225                                                                       | stacks, BST, search, strings                                                |
+| Week 11 | 012, 207, 217, 222, 225, 223                                                                  | stacks, BST, search, strings                                                |
 
 ## Notes to Self
 
