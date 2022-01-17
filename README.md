@@ -23,6 +23,7 @@ A place to store all the algos.
 |  Week 9 | 215                                                                                           | recursion                                                                   |
 | Week 10 | N/A                                                                                           | N/A                                                                         |
 | Week 11 | 012, 207, 217, 222, 225, 223                                                                  | stacks, BST, search, strings                                                |
+| Week 12 | 226, 224, 229                                                                                 | arrays, strings                                                             |
 
 ## Notes to Self
 
